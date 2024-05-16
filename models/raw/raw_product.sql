@@ -4,4 +4,4 @@
     )
 }}
 
-select * from raw.globalmart.product limit 10
+select * from raw.globalmart.product

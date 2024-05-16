@@ -6,4 +6,4 @@
 
 
 
-select * from raw.globalmart.orders limit 10
+select * from raw.globalmart.orders 

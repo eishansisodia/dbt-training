@@ -4,4 +4,4 @@
     )
 }}
 
-select * from raw.globalmart.customer limit 10
+select * from raw.globalmart.customer
